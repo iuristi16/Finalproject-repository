@@ -1,6 +1,6 @@
 This project was created by Nino Ozbetelashvili as the Final Project of the Test Automation course. Used: Java programming language, Selenium framework, TestNG. Ten test cases were automated, one of which two is negative , six – positive.
 
-Positive Cases: Log In With Correct Data, Sort Products By Price From High To Low, Add Products to Cart, Checkout To Your Cart With Correct Data, Backhome To Main Page, Logout From Site.
+Positive Cases: Log In With Correct Data, Sort Products By Price From High To Low, Add Product to Cart, Checkout To Your Cart With Correct Data, Backhome To Main Page, Logout From Site.
 
 Negative Cases: Log In With Incorrect Data, Checkout To Your Cart With Incorrect Data.
 
